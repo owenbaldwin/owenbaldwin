@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/owen-baldwin-b1b275197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/owen-baldwin-b1b275197" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/owen-baldwin-b1b275197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/owen-baldwin-b1b275197" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/owenabaldwinmusic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/owenabaldwinmusic/" height="30" width="40" /></a>
 <a href="https://instagram.com/owen_a_baldwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owen_a_baldwin" height="30" width="40" /></a>
 </p>
