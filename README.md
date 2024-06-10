@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Owen</h1>
 <h3 align="center">A full stack developer and music composer</h3>
 
-- 🔭 I’m currently working on [FilmPod](https://github.com/owenbaldwin/filmpod)
-
-- 🌱 I’m currently learning **more about JS**
-
-- 👯 I’m looking to collaborate on **new projects!**
-
 - 👨‍💻 All of my projects are available at [https://github.com/owenbaldwin?tab=repositories](https://github.com/owenbaldwin?tab=repositories)
 
 - 📫 How to reach me **owenabaldwin@gmail.com**
